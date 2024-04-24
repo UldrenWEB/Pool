@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uldre\\source\\repos\\Pool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7CA4BDA-3FED-418E-9822-055790C226F8}|Pool\\Pool.csproj|c:\\users\\uldre\\source\\repos\\pool\\pool\\pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7CA4BDA-3FED-418E-9822-055790C226F8}|Pool\\Pool.csproj|solutionrelative:pool\\pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7CA4BDA-3FED-418E-9822-055790C226F8}|Pool\\Pool.csproj|c:\\users\\uldre\\source\\repos\\pool\\pool\\objectparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7CA4BDA-3FED-418E-9822-055790C226F8}|Pool\\Pool.csproj|solutionrelative:pool\\objectparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7CA4BDA-3FED-418E-9822-055790C226F8}|Pool\\Pool.csproj|c:\\users\\uldre\\source\\repos\\pool\\pool\\getproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7CA4BDA-3FED-418E-9822-055790C226F8}|Pool\\Pool.csproj|solutionrelative:pool\\getproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7CA4BDA-3FED-418E-9822-055790C226F8}|Pool\\Pool.csproj|c:\\users\\uldre\\source\\repos\\pool\\pool\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7CA4BDA-3FED-418E-9822-055790C226F8}|Pool\\Pool.csproj|solutionrelative:pool\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7CA4BDA-3FED-418E-9822-055790C226F8}|Pool\\Pool.csproj|c:\\users\\uldre\\source\\repos\\pool\\pool\\dbcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7CA4BDA-3FED-418E-9822-055790C226F8}|Pool\\Pool.csproj|solutionrelative:pool\\dbcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pool.cs",
+              "DocumentMoniker": "C:\\Users\\uldre\\source\\repos\\Pool\\Pool\\Pool.cs",
+              "RelativeDocumentMoniker": "Pool\\Pool.cs",
+              "ToolTip": "C:\\Users\\uldre\\source\\repos\\Pool\\Pool\\Pool.cs",
+              "RelativeToolTip": "Pool\\Pool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:53:56.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectParams.cs",
+              "DocumentMoniker": "C:\\Users\\uldre\\source\\repos\\Pool\\Pool\\ObjectParams.cs",
+              "RelativeDocumentMoniker": "Pool\\ObjectParams.cs",
+              "ToolTip": "C:\\Users\\uldre\\source\\repos\\Pool\\Pool\\ObjectParams.cs",
+              "RelativeToolTip": "Pool\\ObjectParams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:53:55.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetProperties.cs",
+              "DocumentMoniker": "C:\\Users\\uldre\\source\\repos\\Pool\\Pool\\GetProperties.cs",
+              "RelativeDocumentMoniker": "Pool\\GetProperties.cs",
+              "ToolTip": "C:\\Users\\uldre\\source\\repos\\Pool\\Pool\\GetProperties.cs",
+              "RelativeToolTip": "Pool\\GetProperties.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:53:53.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\uldre\\source\\repos\\Pool\\Pool\\DBConnection.cs",
+              "RelativeDocumentMoniker": "Pool\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\uldre\\source\\repos\\Pool\\Pool\\DBConnection.cs",
+              "RelativeToolTip": "Pool\\DBConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:53:51.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBComponent.cs",
+              "DocumentMoniker": "C:\\Users\\uldre\\source\\repos\\Pool\\Pool\\DBComponent.cs",
+              "RelativeDocumentMoniker": "Pool\\DBComponent.cs",
+              "ToolTip": "C:\\Users\\uldre\\source\\repos\\Pool\\Pool\\DBComponent.cs",
+              "RelativeToolTip": "Pool\\DBComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:50:17.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

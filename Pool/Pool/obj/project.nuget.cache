@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CyFtggnKB2qg4UYJStNWmepXrsaoZ920ic5nE0xFfsNhbHMULxU6E5uRA+3Cwf3NyImGxTVT9uYIxmZ50Mo74w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uldre\\source\\repos\\Pool\\Pool\\Pool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uldre\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\uldre\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\uldre\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
